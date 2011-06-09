@@ -1,13 +1,13 @@
-	this is a sketch I'm using for time lapse photography with my
-	canon EOS 50D. 
+this is a sketch I'm using for time lapse photography with my
+canon EOS 50D. 
 
-	get a N3 connector, a 2N2222 transistor and wire it up:
-		n3 white wire [ground] -> arduino ground
-		n3 red wire [shutter] -> 2N2222 collector 
-		arduino ground -> 2N2222 emitter 
-		arduino pin7 -> 2N2222 base
+get a N3 connector, a 2N2222 transistor and wire it up:
+	n3 white wire [ground] -> arduino ground
+	n3 red wire [shutter] -> 2N2222 collector 
+	arduino ground -> 2N2222 emitter 
+	arduino pin7 -> 2N2222 base
 
-	I'll draw a schematic when I have time.
+I'll draw a schematic when I have time.
 
-	LICENSE: GPL3
-	(c) Leon Szpilewski 2011, http://jsz.github.com
+LICENSE: GPL3
+(c) Leon Szpilewski 2011, http://jsz.github.com
