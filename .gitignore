@@ -1,0 +1,13 @@
+.DS_Store
+*.bak
+*.pyc
+*.tmproj
+*.6g
+*.o
+*.6
+*.8
+*.8g
+blids
+*.jpg
+*.png
+*.txt
